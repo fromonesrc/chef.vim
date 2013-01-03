@@ -65,8 +65,6 @@ You can customize order and targets by|configuration|.
 :ChefFindDefinitionVsplit                           *:ChefFindDefinitionVsplit*
 
 :ChefFindLWRP                                                   *:ChefFindLWRP*
-:ChefFindLWRP                                                   *:ChefFindLWRP*
-:ChefFindLWRP                                                   *:ChefFindLWRP*
 
 :ChefFindSource                                               *:ChefFindSource*
 :ChefFindSourceSplit                                     *:ChefFindSourceSplit*
